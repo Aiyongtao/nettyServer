@@ -1,0 +1,2 @@
+# nettyServer
+just resource
